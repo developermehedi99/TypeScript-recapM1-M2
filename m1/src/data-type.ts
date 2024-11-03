@@ -15,6 +15,6 @@
     // array type
     let numbers : number[] = [23, 54,65,32,98,];
     let members: string[] = ['ami', 'tumi', 'se', 'tara'];
-    // tuple type
+    // tuple type --> tuple array type
     let officeNum : [string, number, boolean ]= ['parents academy', 1, true];
 }
