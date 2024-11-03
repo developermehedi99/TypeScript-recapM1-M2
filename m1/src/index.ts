@@ -1,3 +1,4 @@
 {
-    const name:string = 'mehedi hasan rana';
+    const course : String = 'next level web development';
+console.log(course)
 }
