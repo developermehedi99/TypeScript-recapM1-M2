@@ -13,8 +13,6 @@
     const isDivi : GenericArray<boolean> = [true,false,true];
 
     type GenericTuple<X,Y> = [X , Y]
-
     const manus: GenericTuple<string, string> = ['M.x', 'M.y'];
-
     const users: GenericTuple<number,{name:string,gamil:string}> = [23, {name:'ranna',gamil:'@gmal.com'}]
 }
